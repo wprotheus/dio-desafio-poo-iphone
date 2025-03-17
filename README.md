@@ -51,4 +51,4 @@ classDiagram
 
 ```
 
-2. Implementada as classes e interfaces correspondentes em Java.
+2. Implementadas as classes e interfaces correspondentes em Java.
